@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Retrofit_3_Movies</string>
+    <string name="more_movie">Next</string>
+    <string name="back">Back</string>
+    <string name="more_movie_lsit">more movie</string>
+    <string name="synopsis">Sinopsis</string>
+    <string name="genre">genero</string>
+    <string name="popularity">Popularidad</string>
+</resources>
